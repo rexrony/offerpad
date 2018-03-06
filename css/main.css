@@ -1,0 +1,15 @@
+*, :before, :after {
+  box-sizing: border-box; }
+
+html {
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  font-family: 'Hind', sans-serif;
+  font-size: 1.3em;
+  color: #333333;
+  line-height: 1.5; }
+
+/*# sourceMappingURL=main.css.map */
